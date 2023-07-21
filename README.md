@@ -1,10 +1,4 @@
-# React + Vite
+# Travel Journal Design with React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/ReshanCSX/travel-journal/assets/64268212/48b8cb3c-f9fd-43f2-b634-c82378502af9)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-A react front end for a travel blog.
-A react front end for a travel blog.
